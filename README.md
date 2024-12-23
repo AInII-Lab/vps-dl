@@ -1,10 +1,10 @@
-# Deep-Learning-based automated Identification of Ventriculoperitoneal-Shunt Valve Models from skull X-rays 
+# Deep-Learning-based automated Identification of Ventriculoperitoneal-Shunt Valve Models from skull X-rays
 
-This is the code for the publication *"Deep-Learning-based automated Identification of Ventriculoperitoneal-Shunt Valve Models from skull X-rays"* by Vach et al.
+This is the code for the publication *"Deep-Learning-based automated Identification of Ventriculoperitoneal-Shunt Valve Models from skull X-rays"* by Vach et al. (DOI : 10.1007/s00062-024-01490-4)
 
 ## Table of content
 
->`training.py` - the main training script 
+>`training.py` - the main training script
 >
 >`training_other.py` - the training script including an "other" class
 >
@@ -12,6 +12,6 @@ This is the code for the publication *"Deep-Learning-based automated Identificat
 >
 >`grad_cam.ipynb` - the notebook to create the Grad-Cam heatmaps
 
-Unfortunately, the underlying dataset cannot be share due to patient/data privacy reasons. 
+Unfortunately, the underlying dataset cannot be share due to patient/data privacy reasons.
 
 Any questions may be directed to marius.vach@med.uni-duesseldorf.de
